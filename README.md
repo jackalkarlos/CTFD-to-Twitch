@@ -17,3 +17,19 @@ This repository provides a solution for displaying a CTFD (Capture The Flag Dash
 5- Share the scoreboard using OBS.
 
 <b>DO NOT SHARE EDITED FILES WITH ANYONE AS THEY CONTAIN YOUR SECRET KEY.</B>
+
+# Special Thanks
+
+Coded with Melanie's support. The support she showed here was not only mental <3 Thx babe. 
+
+ ```
+    -^-     -^-
+  /     \./     \
+ /       '       \
+ |               |
+ |               |
+  \             /
+    \         /
+      \     /
+        \ /
+         '
